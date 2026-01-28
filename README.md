@@ -1,5 +1,5 @@
 [Bibliografia](https://www.ibm.com/es-es/think/insights/why-investing-in-your-data-is-now-more-important-than-ever) \
-[Presentación Comercial](datawine_narrativa_central.pdf)
+
 
 # DATAWINE® - Presentación Comercial: Ecosistemas de Datos para Negocios Agropecuarios
 
@@ -15,6 +15,7 @@ DATAWINE® no es una empresa de tecnología agrícola. Somos **creadores de ecos
 - **80% decisiones más rápidas** con información instantánea
 - **Conectividad 24/7** de todo su ecosistema empresarial
 
+Presentación donde muestra la estrartegia comercial de adopción de TI [Presentación Comercial](datawine_narrativa_central.pdf)
 ---
 
 ## 🎯 Objetivos de la Reunión
