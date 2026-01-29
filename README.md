@@ -1,4 +1,4 @@
-[Bibliografia](https://www.ibm.com/es-es/think/insights/why-investing-in-your-data-is-now-more-important-than-ever) \
+[Bibliografia valor de los datos IBM](https://www.ibm.com/es-es/think/insights/why-investing-in-your-data-is-now-more-important-than-ever) \
 
 
 # DATAWINE® - Presentación Comercial: Ecosistemas de Datos para Negocios Agropecuarios
