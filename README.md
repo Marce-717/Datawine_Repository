@@ -13,7 +13,7 @@ La capacidad de actuar en tiempo real basándose en conocimientos obtenidos a pa
 
 **Estadística clave:** El 59% de las empresas han acelerado su transformación digital post-pandemia
 
-**Aplicación DATAWINE®:** La agricultura chilena enfrenta el mismo imperativo. Las empresas agrícolas que eran "semi-digitales" deben convertirse en "totalmente digitales", mientras que las que ya adoptaron tecnología necesitan expandirse a nuevos casos de uso hídricos.
+**Aplicación DW®:** La agricultura chilena enfrenta el mismo imperativo. Las empresas agrícolas que eran "semi-digitales" deben convertirse en "totalmente digitales", mientras que las que ya adoptaron tecnología necesitan expandirse a nuevos casos de uso hídricos.
 ---
 ---
 **Mensaje central:** *"No se trata de un cambio a corto plazo: la expectativa actual de una agricultura digital totalmente basada en datos supone un cambio permanente en el sector agrícola."*
@@ -21,9 +21,9 @@ La capacidad de actuar en tiempo real basándose en conocimientos obtenidos a pa
 ---
 ### 2. Los Datos Como Activo Estratégico en Agricultura
 
-**Principio IBM:** Las organizaciones de alto rendimiento son 3x más propensas a informar que las iniciativas de datos contribuyeron al menos 20% al EBIT.
+**Principio IBM:** Las organizaciones de alto rendimiento son 3x más propensas a informar que las iniciativas de datos contribuyeron al menos 20% al EBITDA.
 
-**Aplicación DATAWINE®:** Los datos hídricos, climáticos y de suelo se convierten en el activo más valioso de la empresa agrícola. DATAWINE® transforma estos datos en:
+**Aplicación DW®:** Los datos hídricos, climáticos y de suelo se convierten en el activo más valioso de la empresa agrícola. DATAWINE® transforma estos datos en:
 - **Reducción de costos:** -40% en uso de agua
 - **Aumento de ingresos:** +10% en rendimiento de cultivos
 - **Ventaja competitiva:** Agricultura de precisión vs. agricultura tradicional
@@ -33,34 +33,34 @@ La capacidad de actuar en tiempo real basándose en conocimientos obtenidos a pa
 
 **Problema identificado:** La mayoría de empresas agrícolas tienen "almacenes de datos aislados" - sistemas tradicionales que no se comunican entre sí.
 
-**Solución DATAWINE®:** 
+**Solución DW®:** 
 - **Integración total:** Sensores IoT + Imágenes satelitales + Datos climáticos + Análisis de suelo
 - **Plataforma unificada:** Un solo dashboard para toda la operación agrícola
 - **IA aplicada:** 80% del esfuerzo está en preparar datos - nosotros lo hacemos por ti
 
 ---
 
-## LAS 3 ÁREAS CLAVE DE DATAWINE® (BASADAS EN FRAMEWORK IBM)
+## LAS 3 ÁREAS CLAVE DE DW® (BASADAS EN FRAMEWORK IBM)
 
 ### 1. DATOS PARA PLATAFORMAS EMPRESARIALES AGRÍCOLAS
 **Concepto:** Derribar las barreras entre diferentes procesos agrícolas para conectar agua, suelo, clima y cultivos en una experiencia holística.
 
-**Ejemplo inspirador:** Como Yara (Noruega) integra datos para optimizar rendimiento por hectárea con modelos predictivos, DATAWINE® orquesta:
+**Ejemplo inspirador:** Como Yara (Noruega) integra datos para optimizar rendimiento por hectárea con modelos predictivos, DW® orquesta:
 - Datos internos de la empresa agrícola
 - Datos externos de clima y mercado
 - Datos del ecosistema (proveedores, distribuidores)
 ---
-**Resultado:** Reinventar el posicionamiento competitivo del productor agrícola chileno.
+**Resultado:** Reinventar el posicionamiento competitivo del productor agrícola.
 ---
 ---
 ### 2. DATOS PARA FLUJOS DE TRABAJO INTELIGENTES
 **Concepto:** Automatizar procesos agrícolas mediante IA y tecnologías exponenciales respaldadas por datos.
 
-**Aplicación DATAWINE®:**
+**Aplicación DW®:**
 - **Riego automatizado:** Decisiones en tiempo real basadas en datos de sensores
 - **Predicción de cosecha:** Machine learning para optimizar timing
 - **Gestión de recursos:** IA para distribución óptima de agua y nutrientes
-**Beneficio cuantificado:** Como DI4IW reduce 50-70% el tiempo de desarrollo, DATAWINE® reduce:
+**Beneficio cuantificado:** Como DI4IW reduce 50-70% el tiempo de desarrollo, DW® reduce:
 - 60% tiempo en toma de decisiones de riego
 - 45% en planificación de cosecha
 - 30% en gestión administrativa
@@ -70,7 +70,7 @@ La capacidad de actuar en tiempo real basándose en conocimientos obtenidos a pa
 
 **Inspiración:** Como RBS mejora 20% NPS y reduce 10% tiempo de llamadas con datos en tiempo real.
 
-**Aplicación DATAWINE®:**
+**Aplicación DW®:**
 - **Dashboard personalizado:** Cada agricultor ve solo la información relevante para su cultivo y zona
 - **Alertas predictivas:** Notificaciones inteligentes antes de que ocurran problemas
 - **Soporte técnico IA:** Asistente virtual que responde preguntas específicas del campo
