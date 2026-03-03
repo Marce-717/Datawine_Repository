@@ -150,8 +150,8 @@ El agua no es solo un recurso.
 **El agua es el activo de datos más valioso de la agricultura moderna.**
 ---
 ## REFERENCIAS
-[Trimble](https://www.trimble.com/en/industries/natural-resources)
-[Deere](https://www.deere.es/es-es/productos-soluciones/soluciones-tecnologicas/tecnologia-de-agricultura-de-precision)
+[Trimble](https://www.trimble.com/en/industries/natural-resources) \
+[Deere](https://www.deere.es/es-es/productos-soluciones/soluciones-tecnologicas/tecnologia-de-agricultura-de-precision) \
 [Topcon](https://www.topconpositioning.com/latam/solutions/technology/offerings-for-manufacturers/positioning)
 
 
